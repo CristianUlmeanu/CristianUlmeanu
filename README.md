@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning Computer Science at University of Bucharest and some personal desires.
 - 👯 I’m looking to collaborate on new projects.
 - 🤔 I’m looking for help with whatever you throw at me.
-- 💬 Ask me anything about coding.
-- 📫 How to reach me: later topic.
 - ⚡ Fun fact: The word used for coding errors, "bug" was inspired by, guess what, a real bug.
 - 📝 Checkout my [Resume](https://github.com/CristianUlmeanu/Curriculum-vitae/blob/master/CV_Ulmeanu_Cristian.pdf).
 
