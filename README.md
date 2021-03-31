@@ -19,17 +19,17 @@ Hey! My name is Cristian Ulmeanu. I am a computer science student in my second y
 ## Languages and Tools
 
 <p align="center">
-  <code><img title="C++" height="25" src=""></code>
-  <code><img title="C++" height="25" src=""></code>
-  <code><img title="Java" height="25" src=""></code>
-  <code><img title="OracleSQL" height="25" src=""></code>
-  <code><img title="Ubuntu" height="25" src=""></code>
-  <code><img title="Matlab" height="25" src=""></code>
-  <code><img title="R Studio" height="25" src=""></code>
-  <code><img title="Latex" height="25" src=""></code>
-  <code><img title="Git" height="25" src=""></code>
-  <code><img title="VS Code" height="25" src=""></code>
-  <code><img title="AutoCAD" height="25" src=""></code>
+  <code><img title="C++" height="25" src="https://github.com/CristianUlmeanu/CristianUlmeanu/blob/master/Utility/c%2B%2B.svg"></code>
+  <code><img title="C++" height="25" src="https://github.com/CristianUlmeanu/CristianUlmeanu/blob/master/Utility/c.svg"></code>
+  <code><img title="Java" height="25" src="https://github.com/CristianUlmeanu/CristianUlmeanu/blob/master/Utility/java.svg"></code>
+  <code><img title="OracleSQL" height="25" src="https://github.com/CristianUlmeanu/CristianUlmeanu/blob/master/Utility/Oracle_SQL_Developer-Logo.wine.svg"></code>
+  <code><img title="Ubuntu" height="25" src="https://github.com/CristianUlmeanu/CristianUlmeanu/blob/master/Utility/UbuntuCoF.svg"></code>
+  <code><img title="Matlab" height="25" src="https://github.com/CristianUlmeanu/CristianUlmeanu/blob/master/Utility/Matlab_Logo.png"></code>
+  <code><img title="RStudio" height="25" src="https://github.com/CristianUlmeanu/CristianUlmeanu/blob/master/Utility/rstudio-icon.png"></code>
+  <code><img title="Latex" height="25" src="https://github.com/CristianUlmeanu/CristianUlmeanu/blob/master/Utility/LaTeX_logo.svg"></code>
+  <code><img title="Git" height="25" src="https://github.com/CristianUlmeanu/CristianUlmeanu/blob/master/Utility/github.svg"></code>
+  <code><img title="VSCode" height="25" src="https://github.com/CristianUlmeanu/CristianUlmeanu/blob/master/Utility/vscode.png"></code>
+  <code><img title="AutoCAD" height="25" src="https://github.com/CristianUlmeanu/CristianUlmeanu/blob/master/Utility/autocad.svg"></code>
 </p>
 
 ## Stats
@@ -37,11 +37,11 @@ Hey! My name is Cristian Ulmeanu. I am a computer science student in my second y
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=CristianUlmeanu&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianUlmeanu&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=CristianUlmeanu&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight&hide=stars,issues,contribs" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianUlmeanu&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/>
 </details>
 
 ## THE END
 <p align="center">
-<img height="250" width="375" alt="" src="" />
+<img height="250" width="400" src="https://github.com/CristianUlmeanu/CristianUlmeanu/blob/master/Utility/coder.gif" />
 </p>
