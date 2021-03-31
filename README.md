@@ -35,7 +35,7 @@ Hey! My name is Cristian Ulmeanu. I am a computer science student in my second y
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
 
-<img height="140em" src="https://github-readme-stats.vercel.app/api?username=CristianUlmeanu&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight&hide=stars,issues,contribs" />
+<img height="140em" src="https://github-readme-stats.vercel.app/api?username=CristianUlmeanu&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight&hide=issues,contribs" />
 <img height="145m" src="https://github.com/CristianUlmeanu/Git-stats/blob/master/generated/languages.svg" />
 <br\><img height="188em" src="https://github.com/CristianUlmeanu/Git-stats/blob/master/generated/overview.svg" />
 <img height="182em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianUlmeanu&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=5&theme=tokyonight"/>
