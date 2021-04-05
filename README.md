@@ -8,7 +8,7 @@
 
 ## Who am I, for real?
 
-Hey! My name is Cristian Ulmeanu. I am a computer science student in my second year with an interest in coding, software development. I am passionate about the informatics especially the coding part, but also, about games, personal development and outdoor activites such as winter sports, fitness, hiking and swimming. I am a big skiing enthusiast and I consider it my favourite activity ⛷️. Regarding my passion for informatics it started young from using the computer way too much and now I want to start a journey and pursue my goal of working in software dev.
+Hey! My name is Cristian Ulmeanu. I am a computer science student in my second year with an interest in coding, software development. I am passionate about the informatics especially the coding part, but also, about computer games, personal development and outdoor activites such as winter sports, fitness, hiking and swimming. I am a big skiing enthusiast and I consider it my favourite activity ⛷️. Regarding my passion for informatics it started young from using the computer way too much and now I want to start a journey and pursue my goal of working in software dev.
 
 ## Connect with me!
 
