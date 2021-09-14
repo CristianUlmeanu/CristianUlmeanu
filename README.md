@@ -12,7 +12,7 @@ Hey! My name is Cristian Ulmeanu. I am a computer science student in my second y
 
 ## Connect with me!
 
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/cristian-ulmeanu-068055157/)   [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/cristian_ulm/)  [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/upwork.svg" />](https://www.upwork.com/freelancers/~015bb74726cc4f9afc)
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/cristian-ulmeanu-068055157/)   [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/upwork.svg" />](https://www.upwork.com/freelancers/~015bb74726cc4f9afc)  [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/cristian_ulm/)
 
 ## Languages and Tools
 
