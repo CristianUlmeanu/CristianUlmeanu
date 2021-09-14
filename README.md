@@ -12,7 +12,9 @@ Hey! My name is Cristian Ulmeanu. I am a computer science student in my second y
 
 ## Connect with me!
 
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/cristian-ulmeanu-068055157/)   [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/cristian_ulm/)
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/cristian-ulmeanu-068055157/)   
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/cristian_ulm/)
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/upwork.svg" />](https://www.upwork.com/freelancers/~015bb74726cc4f9afc)
 
 ## Languages and Tools
 
@@ -21,13 +23,16 @@ Hey! My name is Cristian Ulmeanu. I am a computer science student in my second y
   <code><img title="C" height="25" src="https://github.com/CristianUlmeanu/CristianUlmeanu/blob/master/Utility/c.svg"></code>
   <code><img title="Java" height="25" src="https://github.com/CristianUlmeanu/CristianUlmeanu/blob/master/Utility/java.svg"></code>
   <code><img title="OracleSQL" height="25" src="https://github.com/CristianUlmeanu/CristianUlmeanu/blob/master/Utility/Oracle_SQL_Developer-Logo.wine.svg"></code>
+  <code><img title="MySQL" height="25" src="https://github.com/CristianUlmeanu/CristianUlmeanu/blob/master/Utility/MySQL.png"></code>
   <code><img title="Ubuntu" height="25" src="https://github.com/CristianUlmeanu/CristianUlmeanu/blob/master/Utility/UbuntuCoF.svg"></code>
+  <code><img title="Computer Networking" height="25" src="https://github.com/CristianUlmeanu/CristianUlmeanu/blob/master/Utility/computer-network-icon-256x256.png"></code>
   <code><img title="Matlab" height="25" src="https://github.com/CristianUlmeanu/CristianUlmeanu/blob/master/Utility/Matlab_Logo.png"></code>
   <code><img title="RStudio" height="25" src="https://github.com/CristianUlmeanu/CristianUlmeanu/blob/master/Utility/rstudio-icon.png"></code>
   <code><img title="Latex" height="25" src="https://github.com/CristianUlmeanu/CristianUlmeanu/blob/master/Utility/LaTeX_logo.svg"></code>
   <code><img title="Git" height="25" src="https://github.com/CristianUlmeanu/CristianUlmeanu/blob/master/Utility/github.svg"></code>
   <code><img title="VSCode" height="25" src="https://github.com/CristianUlmeanu/CristianUlmeanu/blob/master/Utility/vscode.png"></code>
   <code><img title="AutoCAD" height="25" src="https://github.com/CristianUlmeanu/CristianUlmeanu/blob/master/Utility/autocad.svg"></code>
+  <code><img title="Microsoft Office" height="25" src="https://github.com/CristianUlmeanu/CristianUlmeanu/blob/master/Utility/Microsoft_Office_logos_(2013-2019).svg"></code>
 </p>
 
 ## Stats
