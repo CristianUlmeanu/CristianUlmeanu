@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on new projects.
 - 🤔 I’m looking for help with whatever you throw at me.
 - ⚡ Fun fact: The word used for coding errors, "bug" was inspired by, guess what, a real bug.
-- 📝 Checkout my [Resume](https://github.com/CristianUlmeanu/Curriculum-vitae/blob/master/CV_Ulmeanu_Cristian.pdf).
+- 📝 Checkout my [Resume](https://github.com/CristianUlmeanu/Curriculum-vitae/blob/master/CV_Cristian_Ulmeanu.pdf).
 
 ## Who am I, for real?
 
