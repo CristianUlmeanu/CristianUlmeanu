@@ -20,6 +20,8 @@ Hey! My name is Cristian Ulmeanu. I am a computer science student in my second y
   <code><img title="C++" height="25" src="https://github.com/CristianUlmeanu/CristianUlmeanu/blob/master/Utility/c%2B%2B.svg"></code>
   <code><img title="C" height="25" src="https://github.com/CristianUlmeanu/CristianUlmeanu/blob/master/Utility/c.svg"></code>
   <code><img title="Java" height="25" src="https://github.com/CristianUlmeanu/CristianUlmeanu/blob/master/Utility/java.svg"></code>
+  <code><img title="Python" height="25" src="https://github.com/CristianUlmeanu/CristianUlmeanu/blob/master/Utility/Python.svg"></code>
+  <code><img title="UiPath" height="25" src="https://github.com/CristianUlmeanu/CristianUlmeanu/blob/master/Utility/UiPath.svg"></code>
   <code><img title="OracleSQL" height="25" src="https://github.com/CristianUlmeanu/CristianUlmeanu/blob/master/Utility/Oracle_SQL_Developer-Logo.wine.svg"></code>
   <code><img title="MySQL" height="25" src="https://github.com/CristianUlmeanu/CristianUlmeanu/blob/master/Utility/MySQL.png"></code>
   <code><img title="Ubuntu" height="25" src="https://github.com/CristianUlmeanu/CristianUlmeanu/blob/master/Utility/UbuntuCoF.svg"></code>
