@@ -1,9 +1,7 @@
 # Hi there! I am Cristian Ulmeanu and welcome to my github 🙈
-- 🔭 I’m currently working on the future.
-- 🌱 I’m currently learning Computer Science at University of Bucharest and some personal desires.
-- 👯 I’m looking to collaborate on new projects.
+- 🔭 I’m currently working to improve and develop myself.
+- 🌱 I’m currently learning Computer Science at University of Bucharest.
 - ⚡ Fun fact: The word used for coding errors, "bug" was inspired by, guess what, a real bug.
-- 📝 Checkout my [Resume](https://github.com/CristianUlmeanu/Curriculum-vitae/blob/master/CV_Cristian_Ulmeanu.pdf).
 
 ## Who am I, for real?
 
